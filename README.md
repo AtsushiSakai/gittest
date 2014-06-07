@@ -1,1 +1,1 @@
-Author: AtsushiSakai
+# Gitチュートリアル
